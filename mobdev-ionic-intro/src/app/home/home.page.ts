@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  myVariable: string = 'The force is with me!';
-
+  constructor() {}
 
 }
